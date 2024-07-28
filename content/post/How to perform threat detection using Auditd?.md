@@ -1,6 +1,7 @@
 +++
 author = "Shubham Agarwal"
-title = "Auditd"
+title = "How to perform threat detection using Auditd?"
+summary = "Understand how to enable Auditd in a system and detect lolbins executing malicious actions within a system"
 date = "2024-07-28"
 description = "Guide to using Auditd for threat detection"
 tags = [
