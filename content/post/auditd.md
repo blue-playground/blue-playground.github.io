@@ -1,3 +1,13 @@
++++
+author = "Shubham Agarwal"
+title = "Auditd"
+date = "2024-07-28"
+description = "Guide to using Auditd for threat detection"
+tags = [
+    "auditd", "detection engineering"
+]
++++
+
 # Linux Audit
 
 The linux audit system is divided into 2 components, audit-kernel and audit-userspace. The kernel component deals with how to intercept calls from system, how to write messages to be used later. The userspace component is majorly responsible for defining what and when to monitor and provide utilities to the end user to interact with the logs, store them at preferred locations.

@@ -1,0 +1,10 @@
+baseURL = 'blue-playground.github.io'
+languageCode = 'en-us'
+title = 'Diary of a security engineer'
+theme = "paper"
+
+[params]
+    rss = true
+    color = 'wheat'
+    twitter = '@sagarwal_'
+    github = 'blue-playground'
